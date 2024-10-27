@@ -3,4 +3,6 @@ This Repository will contain various Case Studies that I performed, to enhance m
 
 * **Case Study: Regression model on Timeline Data**
 
-If you face any difficulties, feel free to reach out to me on Linkedin.
+If you face any difficulties, feel free to reach out to me on [Linkedin](https://www.linkedin.com/in/sandip-palit/).
+
+**Thank You.. Happy Learning!!**
