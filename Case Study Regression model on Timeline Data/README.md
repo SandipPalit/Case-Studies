@@ -1,4 +1,4 @@
-# Case Study: Regression model on Timeline Data.ipynb
+# Case Study: Regression model on Timeline Data
 
 **Prerequisites:**
 
